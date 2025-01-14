@@ -4280,24 +4280,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Syed M.Ali\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Samip Bhattarai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Youtube\\UsersApp\\UsersApp.csproj",
+      "projectUniqueName": "C:\\Users\\Samip Bhattarai\\Source\\Repos\\AspNetCoreMvcCustomLoginAndRegistration\\UsersApp.csproj",
       "projectName": "UsersApp",
-      "projectPath": "H:\\Youtube\\UsersApp\\UsersApp.csproj",
-      "packagesPath": "C:\\Users\\Syed M.Ali\\.nuget\\packages\\",
-      "outputPath": "H:\\Youtube\\UsersApp\\obj\\",
+      "projectPath": "C:\\Users\\Samip Bhattarai\\Source\\Repos\\AspNetCoreMvcCustomLoginAndRegistration\\UsersApp.csproj",
+      "packagesPath": "C:\\Users\\Samip Bhattarai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Samip Bhattarai\\Source\\Repos\\AspNetCoreMvcCustomLoginAndRegistration\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Syed M.Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Samip Bhattarai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4367,7 +4362,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
